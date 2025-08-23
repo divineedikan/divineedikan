@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me divine.edikan08@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: LMAO
+- ⚡ Fun fact: gg
 
 <!---
 divineedikan/divineedikan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
