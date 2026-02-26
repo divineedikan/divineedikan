@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @divineedikan
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning JS
+- 🌱 I’m a Full-Stack developer
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me divine.edikan08@gmail.com
 - 😄 Pronouns: He
