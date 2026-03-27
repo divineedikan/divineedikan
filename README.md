@@ -45,13 +45,12 @@ Here are some of my projects:
 
  GitHub Stats:
 
-"Your GitHub stats" (https://github-readme-stats.vercel.app/api?username=divineedikan&show_icons=true&theme=radical)
-
+ <img src="https://github-readme-stats.vercel.app/api?username=divineedikan&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 ---
 
 Streak Stats:
 
-"GitHub Streak" (https://streak-stats.demolab.com?user=divineedikan&theme=radical)
+<img src="https://streak-stats.demolab.com?user=divineedikan&theme=tokyonight&hide_border=true" />
 
 ---
 
