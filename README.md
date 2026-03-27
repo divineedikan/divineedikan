@@ -1,4 +1,4 @@
-###Hi, I'm Divine Elijah:
+Hi, I'm Divine Elijah:
 
  - Software Engineering Student at Obafemi Awolowo University (OAU)
  - Based in Nigeria 
@@ -8,7 +8,7 @@
 
 ---
 
-###About Me:
+About Me:
 
 - Focused on becoming a full-stack developer
 - I love solving real-world problems with code
@@ -16,14 +16,14 @@
 - Always improving my skills daily
   
 ---
-  ###Current Focus:
+  Current Focus:
  - JavaScript mastery
  - Building responsive websites
  - Preparing for React & backend development
 
 ---
 
-###Tech Stack:
+Tech Stack:
 
 -  Languages: 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -38,18 +38,16 @@
 
 ---
 
- ###Projects:
+ Projects:
 
 Here are some of my projects:
 
 -  Random Password Generator
 -  Blackjack game
-- Scoreboard 
-
-(More coming soon...)
+- Scoreboard (More coming soon...)
 ---
 
-###Github Stats:
+Github Stats:
 
 <img src="https://streak-stats.demolab.com?user=divineedikan&theme=tokyonight&hide_border=true" />
 
@@ -57,13 +55,13 @@ Here are some of my projects:
  
 ---
 
-###Connect With Me:
+Connect With Me:
 
 - GitHub: https://github.com/divineedikan
 - Email: divine.edikan08@gmail.com
 
 ---
 
- ###Fun Fact:
+ Fun Fact:
 
 I love building real-world projects 
