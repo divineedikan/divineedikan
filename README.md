@@ -1,11 +1,67 @@
-- 👋 Hi, I’m @divineedikan
-- 👀 I’m interested in software engineering
-- 🌱 I’m a Full-Stack developer
-- 💞️ I’m looking to collaborate on a project
-- 📫 How to reach me divine.edikan08@gmail.com
-- ⚡ Fun fact: Im a Human
+Hi, I'm Divine Edikan
 
-<!---
-divineedikan/divineedikan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ -Software Engineering Student at Obafemi Awolowo University (OAU)
+ -Based in Nigeria
+ Passionate about building real-world web applications
+-Goal: Becoming a top-tier Full-Stack developer
+-Currently learning: JavaScript,TypeScript ,React and Node.js
+
+---
+
+ About Me:
+
+- Focused on becoming a full-stack developer
+- I love solving real-world problems with code
+- I enjoy building practical projects (not just theory)
+- Always improving my skills daily
+  
+---
+  Current Focus:
+-JavaScript mastery
+-Building responsive websites
+-Preparing for React & backend development
+
+---
+
+Tech Stack:
+
+-  Languages: JavaScript, HTML, CSS
+- Tools: Git, GitHub, VS Code
+- Learning: React, APIs, Backend (Node.js coming soon 👀)
+
+---
+
+ Projects:
+
+Here are some of my projects:
+
+-  Random Password Generator
+-  Blackjack game
+- Scoreboard 
+
+(More coming soon...)
+
+---
+
+ GitHub Stats:
+
+"Your GitHub stats" (https://github-readme-stats.vercel.app/api?username=divineedikan&show_icons=true&theme=radical)
+
+---
+
+Streak Stats:
+
+"GitHub Streak" (https://streak-stats.demolab.com?user=divineedikan&theme=radical)
+
+---
+
+Connect With Me:
+
+- GitHub: https://github.com/divineedikan
+- Email: divine.edikan08@gmail.com
+
+---
+
+ Fun Fact:
+
+I love building real-world projects 
