@@ -2,7 +2,7 @@ Hi, I'm Divine Edikan
 
  -Software Engineering Student at Obafemi Awolowo University (OAU)
  -Based in Nigeria
- Passionate about building real-world web applications
+ -Passionate about building real-world web applications
 -Goal: Becoming a top-tier Full-Stack developer
 -Currently learning: JavaScript,TypeScript ,React and Node.js
 
@@ -45,7 +45,7 @@ Here are some of my projects:
 
  GitHub Stats:
 
- <img src="https://github-readme-stats.vercel.app/api?username=divineedikan&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=divineedikan&show_icons=true&theme=tokyonight&hide_border=true" />
 ---
 
 Streak Stats:
