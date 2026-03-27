@@ -33,7 +33,8 @@ Tech Stack:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
-- Learning: ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white), APIs, Backend (Node.js coming soon...)
+- Learning: ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black), APIs
 
 ---
 
