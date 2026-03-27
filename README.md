@@ -8,7 +8,7 @@ Hi, I'm Divine Edikan:
 
 ---
 
- About Me:
+##About Me:
 
 - Focused on becoming a full-stack developer
 - I love solving real-world problems with code
@@ -40,15 +40,9 @@ Here are some of my projects:
 - Scoreboard 
 
 (More coming soon...)
-
 ---
 
- GitHub Stats:
-
-
----
-
-Streak Stats:
+Github Stats:
 
 <img src="https://streak-stats.demolab.com?user=divineedikan&theme=tokyonight&hide_border=true" />
 
