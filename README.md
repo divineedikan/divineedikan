@@ -8,7 +8,7 @@ Hi, I'm Divine Edikan:
 
 ---
 
-##About Me:
+About Me:
 
 - Focused on becoming a full-stack developer
 - I love solving real-world problems with code
@@ -17,9 +17,9 @@ Hi, I'm Divine Edikan:
   
 ---
   Current Focus:
--JavaScript mastery
--Building responsive websites
--Preparing for React & backend development
+ - JavaScript mastery
+ - Building responsive websites
+ - Preparing for React & backend development
 
 ---
 
