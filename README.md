@@ -45,7 +45,7 @@ Here are some of my projects:
 
  GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=divineedikan&show_icons=true&theme=tokyonight&hide_border=true" />
+
 ---
 
 Streak Stats:
@@ -53,12 +53,7 @@ Streak Stats:
 <img src="https://streak-stats.demolab.com?user=divineedikan&theme=tokyonight&hide_border=true" />
 
 ---
- Connect & Stats:
-
-![GitHub Followers](https://img.shields.io/github/followers/divineedikan?label=Followers&style=social)
-![Top Language](https://img.shields.io/github/languages/top/divineedikan?style=flat-square)
-![Repo Count](https://img.shields.io/github/repos/divineedikan?style=flat-square)
-![Public Gists](https://img.shields.io/github/gists/public/divineedikan?style=flat-square)
+ 
 ---
 
 Connect With Me:
