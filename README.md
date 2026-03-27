@@ -1,10 +1,10 @@
 Hi, I'm Divine Edikan
 
  -Software Engineering Student at Obafemi Awolowo University (OAU)
--Based in Nigeria
--Passionate about building real-world web applications
--Goal: Becoming a top-tier Full-Stack developer
--Currently learning: JavaScript,TypeScript ,React and Node.js
+ -Based in Nigeria
+ -Passionate about building real-world web applications
+ -Goal: Becoming a top-tier Full-Stack developer
+ -Currently learning: JavaScript,TypeScript ,React and Node.js
 
 ---
 
