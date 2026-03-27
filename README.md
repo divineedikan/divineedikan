@@ -1,4 +1,4 @@
-Hi, I'm Divine Edikan
+Hi, I'm Divine Edikan:
 
  -Software Engineering Student at Obafemi Awolowo University (OAU)
  -Based in Nigeria
