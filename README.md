@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Divine%20Elijah&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20in%20the%20making&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Divine%20Elijah&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%" />
 
-<a href="https://github.com/divineedikan"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=550&lines=Software+Engineering+Student+%40+OAU;Building+real-world+web+apps;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Learning+Solidity+and+preparing+for+Rust" alt="Typing intro" /></a>
+<a href="https://github.com/divineedikan"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=550&lines=Software+Engineering+Student+%40+OAU;Building+real-world+web+apps;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Open+to+internships+and+junior+roles" alt="Typing intro" /></a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=divineedikan&label=Profile%20Views&color=2c5364&style=flat)
 
@@ -13,17 +13,15 @@
 ## 🚀 About Me
 
 - 🎓 Software Engineering undergraduate at **Obafemi Awolowo University (OAU)**, Nigeria 🇳🇬
-- 🧩 I learn by building, and I'm moving from small practice projects to full-stack products that solve real problems
+- 🧩 I build full-stack web apps that solve real problems
 - 🌍 Aiming for international software engineering roles
 - 📬 Open to internships and junior opportunities
 
 ## 🎯 Current Focus
 
-- Full-stack, responsive web apps with React, Next.js and TypeScript
-- Smart contract development with Solidity
-- Preparing for Rust
-
-**Also learning:** Data Structures & Algorithms
+- Full-stack, responsive web apps with React, Next.js, TypeScript and Node.js
+- Databases and backend design with SQL
+- Data structures, algorithms and problem solving
 
 ## 🧰 Tech Stack
 
@@ -35,7 +33,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
 
 **Frameworks & Runtime**
 
