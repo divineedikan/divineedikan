@@ -13,9 +13,24 @@
 ## 🚀 About Me
 
 - 🎓 Software Engineering undergraduate at **Obafemi Awolowo University (OAU)**, Nigeria 🇳🇬
-- 🧩 I build full-stack web apps that solve real problems
+- 🏠 Built **[Nookly](https://nookl.me/)**, a student housing finder for OAU
+- 🤖 Built **[AI Chef Instructor](https://chef-idanski.netlify.app/)**, an AI-powered cooking guide
 - 🌍 Aiming for international software engineering roles
 - 📬 Open to internships and junior opportunities
+
+## 📦 Projects
+
+### 🏠 Nookly: Student Housing Finder for OAU
+Helps OAU students compare off-campus and on-campus accommodation with sourced, labelled information. Search hostels by name, area, price and location type, view routes to the Library or Main Gate on a map, and estimate total housing costs with a built-in planner.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-nookl.me-2c5364?style=for-the-badge)](https://nookl.me/)
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?logo=github&style=for-the-badge)](https://github.com/divineedikan/nookly-oau-hostel-finder)
+
+### 🤖 AI Chef Instructor
+An AI-powered cooking guide that helps you learn and follow recipes.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge)](https://chef-idanski.netlify.app/)
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?logo=github&style=for-the-badge)](https://github.com/divineedikan/ai-chef-instructor)
 
 ## 🎯 Current Focus
 
@@ -46,6 +61,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
 
 ## 📊 GitHub Stats
 
